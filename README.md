@@ -1,5 +1,7 @@
 # Portafolio - Desafío Oracle Next Education
 
+![Portafolio](./assets/portafolio.png)
+
 Desafío del programa ONE, portafolio.
 
 ## Construido con: 
