@@ -114,7 +114,7 @@ section.title {
     transition: transform 0.3s ease;
 }
 .title__network__item:hover {
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 .title__network__item a {
     color: var(--cor-de-title);
@@ -415,6 +415,9 @@ Utiliza las referencias de los breakpoints @media abajo
     }
     .title__network {
         gap: 32px;
+    }
+    .title__network__item:hover {
+        transform: scale(1.2);
     }
     .title__network__item a {
         font-weight: 500;
